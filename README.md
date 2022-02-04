@@ -5,12 +5,13 @@ cli.py will contain my barebones implementation of hangman using the API. I'm no
 
 ## Future Plans (Time Permitting)
 - Make the CLI with a more robust CLI library
+    - Thinking PyInquirer
 - Javascript Web App
-- - Database tracking for word specific history
-- - Letter history
-- - Leaderboard
-- Time trial mode
-- Have pretty graphics
+    - Database tracking for word specific history
+    - Letter history
+    - Leaderboard
+    - Time trial mode
+    - Have pretty graphics
 
 ## Python Requirements
 - None at the moment...
